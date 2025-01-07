@@ -1,0 +1,1 @@
+# Code no 1 to 7 represents the basic examples of if else statements in C language.
